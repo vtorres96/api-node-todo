@@ -18,6 +18,10 @@
     "url": "https://github.com/vtorres96/dh-node-t10-to-do-list/issues"
   },
   "homepage": "https://github.com/vtorres96/dh-node-t10-to-do-list#readme",
+  "engines": {
+      "node": ">= 6.9.4",
+      "npm": ">= 4.4.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
